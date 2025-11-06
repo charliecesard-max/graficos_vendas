@@ -1,5 +1,3 @@
-# graficos_vendas
-
 # Visualização de Dados de Vendas com Matplotlib
 
 Este projeto demonstra o uso básico da biblioteca Matplotlib em Python para criar diferentes tipos de gráficos.  
